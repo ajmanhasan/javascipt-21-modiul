@@ -24,3 +24,4 @@ function add(num1, num2){
     console.log(sum);
 }
 add(12, 34);
+add(54, 678);
